@@ -37,3 +37,15 @@ a:link {
     color: yellow;
     background-color: transparent;
  }
+
+ ul{
+    margin: 0;
+    padding: 0;
+
+ }
+
+ .box li{
+    display: inline-block;
+    margin: 6px;
+    list-style: none;
+ }
