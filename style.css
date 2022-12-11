@@ -24,7 +24,16 @@ body {
 }
 
 a:link {
-    color: green;
+    color: greenyellow;
     background-color: transparent;
     text-decoration: none;
-  }
+ }
+ a:visited {
+    color: deepskyblue;
+    background-color: transparent;
+    text-decoration: none;
+ }
+ a:active {
+    color: yellow;
+    background-color: transparent;
+ }
